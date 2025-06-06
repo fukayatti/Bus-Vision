@@ -10,7 +10,7 @@
 
 Bus Vision は、茨城高専前から勝田駅前へのバス接近情報をリアルタイムで監視する macOS メニューバーアプリケーションです。バス接近情報サイトから自動的にデータを取得し、見やすいインターフェースで表示します。
 
-![alt text](image.png)
+![alt text](assets/Screenshot.png)
 
 ## 主な機能
 
