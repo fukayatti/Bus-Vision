@@ -48,7 +48,7 @@ Bus Vision は、茨城高専前から勝田駅前へのバス接近情報をリ
 1. **リポジトリをクローン**:
 
    ```bash
-   git clone https://github.com/your-username/Bus-Vision.git
+   git clone https://github.com/fukayatti/Bus-Vision.git
    cd Bus-Vision
    ```
 
